@@ -1,0 +1,6 @@
+[package]
+name = "r_client"
+version = "0.1.0"
+authors = ["Felix <452613808@qq.com>"]
+
+[dependencies]
